@@ -1,5 +1,3 @@
-# rintin-tim.github.io
-
 Examples of developed hobby applications and scripts:
 
 | Name               | Description                                                                                                                                                                                         | Technologies Used                                                                     | URL / GitHub                                                                                                                                            |
