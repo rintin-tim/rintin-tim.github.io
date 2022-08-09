@@ -1,10 +1,10 @@
-Examples of developed hobby applications and scripts:
+Hobby applications and scripts:
 
-## 1. mysslchecker.com
+## mysslchecker.com
 
 #### Retrieves SSL certificate data for a list of websites. Information is stored in the user’s personal Google Drive via the Google Sheets API.
 
-| Technologies Used                                                         | URL / GitHub                                                                                          |
+| Technologies Used                                                         |                                                                                                       |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Python, Heroku (PaaS), Google Sheet API v3, HTML & CSS, JavaScript, Redis | [◉ Website](https://mysslchecker.com)<br />[◉ Github](https://github.com/rintin-tim/mysslchecker.git) |
 
