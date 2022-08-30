@@ -22,6 +22,8 @@ _mysslchecker.com includes configurable email alerts_
 | --------------------- | ---------------------------------------------------- |
 | JavaScript, HTML, CSS | [• Github](https://github.com/rintin-tim/print_form) |
 
+<a href="https://github.com/rintin-tim/print_form" target="_blank"><img src="print-form.png" alt="print form example" width="640"></a>
+
 | Name          | Description                                                                                                                                                                                         | Technologies Used                                                                     | URL / GitHub         |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------- |
 | GetScreenshot | Uses the BrowserStack screenshot API to return screenshots from selected browsers and devices for a list of URLs. Multiple API responses are compiled into a single slideshow for quick ease of use | Python, Heroku (PaaS), HTML & CSS, JavaScript, PostgreSQL, Redis DB, BrowserStack API | Available on request |
