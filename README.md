@@ -6,7 +6,7 @@ Hobby python projects
 
 ## mysslchecker.com
 
-#### Retrieves and categorises SSL certificate data for a given list of websites. The list is stored in the user’s personal Google Drive and accessed via the Google Sheets API.
+#### Retrieves and categorises SSL certificate data for a given list of websites. The list is stored in the user’s personal Google Drive and accessed via the Google Sheets API.  Includes configurable email alerts.
 
 <a href="https://mysslchecker.com/" target="_blank"><img src="my-ssl-checker.png" alt="mysslchecker" width="640"></a>
 
