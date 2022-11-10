@@ -12,10 +12,6 @@ Hobby python projects
 
 <a href="https://mysslchecker.com/" target="_blank"><img src="my-ssl-checker-www.png" alt="mysslchecker" width="640"></a>
 
-_mysslchecker.com includes configurable email alerts_
-
-<img src="email-options.png" alt="mysslchecker-email-options" width="640">
-
 | Technologies Used                                                    |                                                                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Python, Heroku, Google Sheets API (v3), Redis, HTML, CSS, JavaScript | [• Website](https://mysslchecker.com)<br />[• Github](https://github.com/rintin-tim/mysslchecker) |
