@@ -18,13 +18,13 @@ Hobby python projects
 
 ## GetScreenshot
 
-#### GetScreenshot takes screenshots for a list of URLs using multiple browsers and devices. It enhances Browserstack's native functionality by enabling users to bulk send a list of URLs and devices which can be reviewed in a custom slideshow. 
+#### GetScreenshot takes screenshots for a list of URLs using multiple browsers and devices. It enhances Browserstack's native functionality by enabling users to bulk send a list of URLs which can be reviewed in a single custom slideshow.
 
 {% include youtube.html id="ay7Z4dQC-5M" %}
 <br />
 
-| Technologies Used                                                                                      |                                                        |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| Technologies Used                                                              |                                                        |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------ |
 | Python, Heroku, Browserstack screenshot API, Redis, JavaScript, CSS, HTML, CSS | [• Github](https://github.com/rintin-tim/mysslchecker) |
 
 # QA Tools
