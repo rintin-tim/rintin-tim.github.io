@@ -18,7 +18,7 @@ Hobby python projects
 
 ## GetScreenshot
 
-#### GetScreenshot provides a UI for Browserstack's screenshot API. It takes screenshots for a list of URLs using multiple browsers and devices. GetScreenshot enhances Browserstack's native functionality by enabling users to bulk send a list of URLs and devices and viewing them in a custom slideshow. By contrast, when using the native Browserstack UI, users can only submit and review images for one URL at a time.
+#### GetScreenshot takes screenshots for a list of URLs using multiple browsers and devices. It enhances Browserstack's native functionality by enabling users to bulk send a list of URLs and devices and viewing them in a custom slideshow. By contrast, when using the native Browserstack UI, users can only submit and review images for one URL at a time.
 
 {% include youtube.html id="ay7Z4dQC-5M" %}
 
