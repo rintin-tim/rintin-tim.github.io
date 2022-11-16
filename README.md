@@ -23,9 +23,9 @@ Hobby python projects
 {% include youtube.html id="ay7Z4dQC-5M" %}
 <br />
 
-| Technologies Used                                                              |                                                        |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Python, Heroku, Browserstack screenshot API, Redis, JavaScript, CSS, HTML, CSS | [• Github](https://github.com/rintin-tim/mysslchecker) |
+| Technologies Used                                                                          |                                                        |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, CSS, HTML, CSS | [• Github](https://github.com/rintin-tim/mysslchecker) |
 
 # QA Tools
 
