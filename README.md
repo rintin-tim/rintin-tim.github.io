@@ -8,19 +8,19 @@ Hobby python projects
 
 #### Retrieves and categorises SSL certificate data for a given list of websites. The list is stored in the user’s personal Google Drive and accessed via the Google Sheets API. Includes configurable email alerts.
 
-{% include youtube.html id="iaYJJtO24OE" %}
+{% include youtube.html id="AmvyUrkLVnk" %}
 
-<a href="https://mysslchecker.com/" target="_blank"><img src="my-ssl-checker-www.png" alt="mysslchecker" width="640"></a>
+<img src="my-ssl-checker-www.png" alt="mysslchecker" width="640">
 
-| Technologies Used                                                    |                                                                                                   |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Website](https://mysslchecker.com)<br />[• Github](https://github.com/rintin-tim/mysslchecker) |
+| Technologies Used                                                    |                                                        |
+| -------------------------------------------------------------------- | ------------------------------------------------------ |
+| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker) |
 
 ## GetScreenshot
 
 #### GetScreenshot takes screenshots for a list of URLs using multiple browsers and devices. It enhances Browserstack's native functionality by enabling users to bulk send a list of URLs which can be reviewed in a single custom slideshow.
 
-{% include youtube.html id="1RCjAdcJMw4" %}
+{% include youtube.html id="A87HuONLpOo" %}
 <br />
 
 | Technologies Used                                                                          |                                                        |
