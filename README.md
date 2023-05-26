@@ -1,12 +1,8 @@
-Hobby applications and scripts:
-
 # Web Applications
 
-Hobby python projects
+### mysslchecker.com
 
-## mysslchecker.com
-
-#### Retrieves and categorises SSL certificate data for a given list of websites. The list is stored in the user’s personal Google Drive and accessed via the Google Sheets API. Includes configurable email alerts.
+Retrieves and categorises SSL certificate data for a given list of websites. The list is stored in the user’s personal Google Drive and accessed via the Google Sheets API. Includes configurable email alerts.
 
 {% include youtube.html id="AmvyUrkLVnk" %}
 
@@ -16,9 +12,9 @@ Hobby python projects
 | -------------------------------------------------------------------- | ------------------------------------------------------ |
 | Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker) |
 
-## GetScreenshot
+### GetScreenshot
 
-#### GetScreenshot takes screenshots for a list of URLs using multiple browsers and devices. It enhances Browserstack's native functionality by enabling users to bulk send a list of URLs which can be reviewed in a single custom slideshow.
+GetScreenshot takes screenshots for a list of URLs using multiple browsers and devices. It enhances Browserstack's native functionality by enabling users to bulk send a list of URLs which can be reviewed in a single custom slideshow.
 
 {% include youtube.html id="A87HuONLpOo" %}
 <br />
@@ -29,11 +25,11 @@ Hobby python projects
 
 # QA Tools
 
-Scripts to help with repetitive manual QA tasks
+### Scripts to help with repetitive manual QA tasks
 
 ## Form printer
 
-#### Print your current form data to a new browser tab before you submit it
+Print your current form data to a new browser tab before you submit it
 
 <a href="https://github.com/rintin-tim/print_form" target="_blank"><img src="print-form.png" alt="print form example" width="640"></a>
 
@@ -43,7 +39,7 @@ Scripts to help with repetitive manual QA tasks
 
 ## Domain toggle
 
-#### Easily switch between identical URL paths on two different domains - without manually and repetitively changing the URL in the browser.
+Toggle between identical URL paths on two different domains - without manually and repetitively changing the URL in the browser.
 
 This can be useful for comparing webpages across production and staging environments or across different regions.
 
