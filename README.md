@@ -51,7 +51,3 @@ _Example - switch between:_
 | Technologies Used |                                                         |
 | ----------------- | ------------------------------------------------------- |
 | JavaScript        | [• Github](https://github.com/rintin-tim/domain_toggle) |
-
-| Name          | Description                                                                                                                                                                                         | Technologies Used                                                                     | URL / GitHub         |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------- |
-| GetScreenshot | Uses the BrowserStack screenshot API to return screenshots from selected browsers and devices for a list of URLs. Multiple API responses are compiled into a single slideshow for quick ease of use | Python, Heroku (PaaS), HTML & CSS, JavaScript, PostgreSQL, Redis DB, BrowserStack API | Available on request |
