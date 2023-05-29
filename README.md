@@ -6,11 +6,9 @@ Retrieves and categorises SSL certificate data for a given list of websites. The
 
 {% include youtube.html id="AmvyUrkLVnk" %}
 
-<img src="my-ssl-checker-www.png" alt="mysslchecker" width="640">
-
-| Technologies Used                                                    |                                                        |
-| -------------------------------------------------------------------- | ------------------------------------------------------ |
-| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker) |
+| Technologies Used                                                    |                                                                                                |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker)<br/> [• Web](https://mysslchecker.com/) |
 
 ### GetScreenshot
 
