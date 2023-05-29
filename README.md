@@ -8,7 +8,7 @@ Retrieves and categorises SSL certificate data for a given list of websites. The
 <br />
 | Technologies Used | |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker)<br/> [• Web](https://mysslchecker.com/) |
+| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker) [• Web](https://mysslchecker.com/) |
 
 ### GetScreenshot
 
