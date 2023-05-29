@@ -5,8 +5,8 @@
 Retrieves and categorises SSL certificate data for a given list of websites. The list is stored in the user’s personal Google Drive and accessed via the Google Sheets API. Includes configurable email alerts.
 
 {% include youtube.html id="AmvyUrkLVnk" %}
-
-| Technologies Used                                                    |                                                                                                |
+<br />
+| Technologies Used | |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker)<br/> [• Web](https://mysslchecker.com/) |
 
