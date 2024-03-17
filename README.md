@@ -9,7 +9,7 @@ Retrieves and categorises SSL certificate data for a given list of websites. The
 
 | Technologies Used                                                    |                                                                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [• Github](https://github.com/rintin-tim/mysslchecker) [• Web](https://mysslchecker.com/) |
+| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [Github](https://github.com/rintin-tim/mysslchecker) [Web](https://mysslchecker.com/) |
 
 ### GetScreenshot
 
@@ -20,7 +20,7 @@ GetScreenshot takes screenshots for a list of URLs using multiple browsers and d
 
 | Technologies Used                                                                          |                                                        |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, CSS, HTML, CSS | [• Github](https://github.com/rintin-tim/mysslchecker) |
+| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, CSS, HTML, CSS |  |
 
 # QA Tools
 
