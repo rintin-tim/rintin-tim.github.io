@@ -9,7 +9,7 @@ Retrieves and categorises SSL certificate data for a given list of websites. The
 
 | Technologies Used                                                    |                                                                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [Github](https://github.com/rintin-tim/mysslchecker) [Web](https://mysslchecker.com/) |
+| Python, Heroku, Google Sheets API (v3), Redis, JavaScript, CSS, HTML | [GitHub](https://github.com/rintin-tim/mysslchecker) [App](https://mysslchecker.com/) |
 
 ### GetScreenshot
 
@@ -20,7 +20,7 @@ GetScreenshot takes screenshots for a list of URLs using multiple browsers and d
 
 | Technologies Used                                                                          |                                                        |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, CSS, HTML, CSS |  |
+| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, CSS, HTML, CSS |  [GitHub](https://github.com/rintin-tim/get_screenshot/)|
 
 # QA Tools
 
@@ -34,7 +34,7 @@ Print your current form data to a new browser tab before you submit it
 
 | Technologies Used     |                                                      |
 | --------------------- | ---------------------------------------------------- |
-| JavaScript, HTML, CSS | [• Github](https://github.com/rintin-tim/print_form) |
+| JavaScript, HTML, CSS | [• GitHub](https://github.com/rintin-tim/print_form) |
 
 ## Domain toggle
 
@@ -49,4 +49,4 @@ _Example - switch between:_
 
 | Technologies Used |                                                         |
 | ----------------- | ------------------------------------------------------- |
-| JavaScript        | [• Github](https://github.com/rintin-tim/domain_toggle) |
+| JavaScript        | [• GitHub](https://github.com/rintin-tim/domain_toggle) |
