@@ -20,7 +20,7 @@ GetScreenshot takes screenshots for a list of URLs using multiple browsers and d
 
 | Technologies Used                                                                          |                                                        |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, CSS, HTML, CSS |  [GitHub](https://github.com/rintin-tim/get_screenshot/)|
+| Python, Heroku, Browserstack screenshot API, PostgreSQL, Redis, JavaScript, HTML, CSS |  [GitHub](https://github.com/rintin-tim/get_screenshot/)|
 
 # QA Tools
 
