@@ -1,6 +1,4 @@
 # Web Applications
-I'm a quality engineer who loves merging my experience from both technical and commercial software roles to support teams in delivering high quality solutions.
-Here, you'll find a few examples of Python/Javascript tools I created along the way to tackle business or testing challenges.
 
 ### mysslchecker.com
 
